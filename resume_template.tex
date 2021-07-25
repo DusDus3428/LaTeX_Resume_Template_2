@@ -1,0 +1,70 @@
+\documentclass{resume_template}
+
+\begin{document}
+	\begin{tcbraster}[grid]
+		% This is the sidebar section
+		\begin{tcolorbox}[sidebar,raster multicolumn=2]
+			\resumephoto{{folder.png}} 
+			\justifying
+			 		
+			\resumesection{Contact}\\ 
+				Tel: \href{tel:}{\loremipsum} \\ 
+				Email: \href{mailto:}{\loremipsum} \\ 
+				Address: \loremipsum \\
+				LinkedIn: \href{https://www.google.com/}{\loremipsum} \\
+				GitHub: \href{https://www.google.com/}{\loremipsum}
+				
+			\resumesection{Education}\\
+				\educationentryheader{Degree}{School}{City}{State/Country}{Start date}{end date}
+				\begin{itemize}
+					\item \lorem
+				\end{itemize}			
+				
+			\resumesection{Skills}\\
+				\skill{\loremipsum}{50}
+				\skill{\loremipsum}{50}
+				\skill{\loremipsum}{50}
+				\skill{\loremipsum}{50}
+				\skill{\loremipsum}{50}
+			
+			\resumesection{Languages}
+				\begin{itemize}
+					\item \loremipsum - native proficiency
+					\item \loremipsum - business proficiency
+				\end{itemize}
+		\end{tcolorbox}
+		% This is the main section
+		\begin{tcolorbox}[main,raster multicolumn=4]
+			\resumetitle{Name Nameman}{My Profession}
+			
+			\resumesection{Objective}\\ 
+				\lorem 
+				\ut 
+				 
+			\justifying			
+			\resumesection{Work Experience}\\
+				\experienceentryheader{Company}{City}{State/Country}{Job Title}{Start date}{end date}
+				\begin{itemize}
+					\item \lorem
+					\item \ut
+					\item \duis
+				\end{itemize}
+				\vspace*{12pt}
+				\experienceentryheader{Company}{City}{State/Country}{Job Title}{Start date}{end date}
+				\begin{itemize}
+					\item \lorem
+					\item \ut
+					\item \duis
+				\end{itemize}
+			
+			\resumesection{Interests}
+				\begin{itemize}
+					\item \loremipsum
+					\item \loremipsum
+					\item \loremipsum
+					\item \loremipsum
+					\item \loremipsum
+				\end{itemize}			
+		\end{tcolorbox}
+	\end{tcbraster}
+\end{document}
