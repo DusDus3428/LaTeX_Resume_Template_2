@@ -3,7 +3,7 @@
 %
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{resume_template}
+\ProvidesClass{resume_template_2}
 
 % We are going to base this class on the article class
 \LoadClass[11pt, oneside, letterpaper, titlepage]{article}
