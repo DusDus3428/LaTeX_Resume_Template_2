@@ -1,6 +1,6 @@
 # Resume_Template_2
 
-* This Readme file has been copied from my other repository: [Resume_Template](https://github.com/DusDus3428/LaTeX_Resume_Template). This template is in essence a variation if that original one. The difference is that this one just has a side bar and a main section, and no header section. *
+*This Readme file has been copied from my other repository: [Resume_Template](https://github.com/DusDus3428/LaTeX_Resume_Template). This template is in essence a variation if that original one. The difference is that this one just has a side bar and a main section, and no header section.*
 
 Creating a good resume these days is very important. With the amount of applications a hiring manager or recruiter recieves, it's no wonder that they can only spare a few seconds of their time to determine if you could be a good fit.
 So it is very important that your resume stands out from the rest.
