@@ -7,7 +7,7 @@ So it is very important that your resume stands out from the rest.
 
 Because of this, I decided to create my resume with LaTeX, a tool heavly used in academia, especially within the mathematics and science sectors. Similar to HTML/CSS, you can create your document using a .tex file, and you can style it using a .cls file.
 
-This repository offers you a template for a resume created using LaTeX. Feel free to fork or download this template, and I encourage you to personalize it so that it really reflects who you are (I forked it myself in a private repository in order to do just that).
+This repository offers you a template for a resume created using LaTeX. Feel free to fork or download this template, and I encourage you to personalize it so that it really reflects who you are (I have duplicated it in a private repository in order to do just that).
 
 ## Setting up LaTeX for Windows
 
@@ -36,7 +36,7 @@ Apart from your personal photo, there are only two files that really matter here
 - Change the contact information
 - Use the \skill command to showcase your skills and skill levels using horizontal bars 
 - Remove all the \loremispum \lorem \ut \duis commands since they are blindtext commands, and replace them with your resume content
-- Personalize the design (as mentioned above, even I created a private fork of this repository in order to adjust the design to better represent who I am. I would not rely on this template alone)
+- Personalize the design (as mentioned above, even I have created a private repository in order to adjust the design to better represent who I am. I would not rely on this template alone)
     * Change the font if you like. Just make sure you own a license for the font you are using, if it is not a free font, that is. Here is a helpful website in my opnion: [FontCatalogue](https://tug.org/FontCatalogue/)
 	* Change the colors. Grey is not really suitable if you want to stand out from the crowd
 	* Add new sections or change/remove existing ones
